@@ -1,4 +1,4 @@
-# Requerimientos de Sistema – Ejemplo Académico
+# Requerimientos de Sistema
 
 ## Descripción
 Documento académico que muestra la recolección y organización de requerimientos
